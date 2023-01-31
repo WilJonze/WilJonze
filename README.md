@@ -1,5 +1,5 @@
 
-![](https://github.com/WilJonze/WilJonze/blob/main/banner.png)
+![](https://github.com/WilJonze/WilJonze/blob/main/banner2.png)
 
 <h1 align="center">
  ✨William Berry || Lets be friends!✨
