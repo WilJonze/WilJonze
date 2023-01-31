@@ -1,5 +1,5 @@
 
-[![MasterHead](your image link)](your GitHub link)
+[![MasterHead]()](your GitHub link)
 
 
 ## ✨William Berry || Lets be friends!✨
@@ -13,6 +13,8 @@ Im a growing Web Developer from Louisville, KY. Im currently working on building
 Thanks for taking a look at my Github page! If you ever notice any code that could be written better or if you have any questions reach out!
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WilJonze&theme=violet-punch)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=WilJonze&style=for-the-badge&color=blueviolet)
 
 <!--
 **WilJonze/WilJonze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
