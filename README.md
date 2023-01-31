@@ -17,7 +17,7 @@ Thanks for taking a look at my Github page! If you ever notice any code that cou
  :computer: My Tech Stack
  </h2>
  
-<a align="center">
+<h2 align="center">
 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,10 +29,13 @@ Thanks for taking a look at my Github page! If you ever notice any code that cou
 
 <h2 align="center"> Stats and Metrics </h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WilJonze&theme=violet-punch)](https://git.io/streak-stats)
-
 <h2 align="center">
+ 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WilJonze&theme=violet-punch)](https://git.io/streak-stats)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilJonze&langs_count=8&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
+ 
 ![](https://komarev.com/ghpvc/?username=WilJonze&style=for-the-badge&color=blueviolet)
 
 <!--
