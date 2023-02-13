@@ -33,7 +33,7 @@ Thanks for taking a look at my Github page! If you ever notice any code that cou
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WilJonze&theme=violet-punch)](https://git.io/streak-stats)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilJonze&langs_count=8&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilJonze&langs_count=8&layout=compact&theme=midnight-purple=PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 
  
 ![](https://komarev.com/ghpvc/?username=WilJonze&style=for-the-badge&color=blueviolet)
