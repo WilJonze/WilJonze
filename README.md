@@ -27,7 +27,7 @@ Thanks for taking a look at my Github page! If you ever notice any code that cou
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 </a>
 
-<h2 align="center">:bar_chart:  Stats and Metrics :chart_with_upwards_trend:</h2>
+<h2 align="center">:bar_chart:  Stats and Metrics :chart_with_upwards_trend:</h2>  
 
 <h2 align="center">
  
