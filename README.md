@@ -9,7 +9,7 @@
 
 
 
-Im a growing **Web Developer** from Louisville, KY. Im currently working on building skills in **JS, React, and Node.JS!** I am commited to being a **Full Stack Developer** by the end of 2023. I learn by doing, and im always looking for a fun new project to work on! I dont have al the answers, but I'm one hell of a googler. 
+Im a growing **Web Developer** from Louisville, KY. Im currently working on building skills in **JS, React, and Node.JS!** I am commited to being a **Full Stack Developer** by the end of 2023. I learn by doing, and im always looking for a fun new project to work on! I dont have all the answers, but I'm one hell of a googler. 
 
 Thanks for taking a look at my Github page! If you ever notice any code that could be written better or if you have any questions reach out!
 
